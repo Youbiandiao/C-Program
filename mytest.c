@@ -7,4 +7,9 @@ int main()
     printf("wdnmd");
     printf("wdnmd");
     printf("wdnmd");
+    printf("wdnmd");
+    printf("wdnmd");
+    printf("wdnmd");
+    printf("wdnmd");
+    printf("wdnmd");
 }
