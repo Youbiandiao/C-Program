@@ -2,6 +2,7 @@
 
 int main()
 {
-    wdnmd
-    haha!
+    int a=0;
+    printf("wdnmd");
+    scanf("%d",&a);
 }
